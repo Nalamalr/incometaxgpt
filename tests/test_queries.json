@@ -1,0 +1,27 @@
+[
+  {
+    "query": "What is the maximum deduction under Section 80C?",
+    "expected_keywords": ["150000", "1,50,000", "one lakh fifty thousand"],
+    "category": "deduction"
+  },
+  {
+    "query": "How to calculate HRA exemption?",
+    "expected_keywords": ["minimum", "50%", "40%", "rent paid"],
+    "category": "calculation"
+  },
+  {
+    "query": "What are the tax slabs in old regime?",
+    "expected_keywords": ["250000", "500000", "5%", "20%", "30%"],
+    "category": "rates"
+  },
+  {
+    "query": "Who can claim Section 80D deduction?",
+    "expected_keywords": ["health insurance", "medical insurance", "25000"],
+    "category": "eligibility"
+  },
+  {
+    "query": "Difference between old and new tax regime",
+    "expected_keywords": ["deductions", "exemptions", "lower rates"],
+    "category": "comparison"
+  }
+]

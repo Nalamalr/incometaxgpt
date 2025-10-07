@@ -1,0 +1,15 @@
+venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.env
+*.log
+.DS_Store
+data/raw/*.pdf
+data/embeddings/*.pkl
+data/embeddings/*.index
+models/base/*
+models/fine-tuned/*
+logs/*.log
+.streamlit/secrets.toml

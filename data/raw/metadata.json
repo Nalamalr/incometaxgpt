@@ -1,0 +1,14 @@
+{
+  "documents": [
+    {
+      "id": 1,
+      "file_path": "data/raw/income_tax_act_1961.pdf",
+      "doc_type": "act",
+      "title": "Income Tax Act, 1961",
+      "year": 2024,
+      "description": "Complete Income Tax Act with amendments",
+      "added_date": "2025-10-02T02:57:30.077677"
+    }
+  ],
+  "last_updated": "2025-10-02T02:57:30.077677"
+}

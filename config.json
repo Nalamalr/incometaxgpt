@@ -1,0 +1,23 @@
+{
+  "data_paths": {
+    "raw": "data/raw",
+    "processed": "data/processed",
+    "embeddings": "data/embeddings"
+  },
+  "models": {
+    "embedding_model": "sentence-transformers/all-MiniLM-L6-v2",
+    "base_llm": "meta-llama/Llama-2-7b-chat-hf",
+    "use_local_llm": false,
+    "api_provider": "huggingface"
+  },
+  "retrieval": {
+    "top_k": 5,
+    "semantic_weight": 0.7,
+    "max_context_tokens": 2000
+  },
+  "generation": {
+    "max_new_tokens": 512,
+    "temperature": 0.3,
+    "top_p": 0.9
+  }
+}
