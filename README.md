@@ -6,7 +6,7 @@ built as a capstone project for VIT Chennai.
 
 **Author:** Nalamalapu Laxman Reddy (21MIS0108)  
 **Guide:** Mrs. Nirmala M (Associate Professor Grade 2)  
-**Institution:** VIT Chennai
+**Institution:** VIT Vellore
 
 ## 🚀 Features
 - Natural language Q&A on Indian Income Tax
